@@ -4,7 +4,7 @@
 
 ThermoDAQ is a browser-based data acquisition dashboard for a USB-connected ESP32. It reads sensor measurements through the Web Serial API and displays live temperature, voltage, and session statistics alongside interactive charts.
 
-**Live deployed project:** `<ADD_YOUR_DEPLOYED_PROJECT_URL_HERE>`
+**Live deployed project:** `https://thermodaq.pages.dev`
 
 ## Project Showcase
 
